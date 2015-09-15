@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Potholer</string>
+    <string name="title_activity_potholer_main">Potholer</string>
+    <string name="point_number_x">Point #%1$s</string>
+</resources>

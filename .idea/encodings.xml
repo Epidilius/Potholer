@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_map_pin.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_map_pin_cluster.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/m1.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/m2.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/m3.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/m4.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/m5.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/carselectmenu.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/plurals.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

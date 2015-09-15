@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/sedan"
+              android:title="Sedan" />
+        <item android:id="@+id/van"
+              android:title="Van" />
+        <item android:id="@+id/truck"
+              android:title="Truck" />
+         <item android:id="@+id/miniVan"
+              android:title="Mini Van" />
+         <item android:id="@+id/coupe"
+              android:title="Coupe" />
+    </group>
+</menu>
